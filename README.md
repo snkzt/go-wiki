@@ -1,6 +1,6 @@
 # go-wiki
 ### WHAT
-- Implement web application to getting used to code with golang.
+- Implement web application to getting used to code with Go.
 - Following [this](https://go.dev/doc/articles/wiki/) official doc.
 
 ### HOW
